@@ -1,0 +1,14 @@
+{
+  "name": "hello-cloud9",
+  "version": "1.0.0",
+  "description": "This project was created using the cloud9 IDE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
